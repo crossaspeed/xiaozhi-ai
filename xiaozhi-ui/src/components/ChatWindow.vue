@@ -2,7 +2,7 @@
   <div class="app-layout">
     <div class="sidebar">
       <div class="logo-section">
-        <img src="@/assets/logo.png" alt="面试小助手" width="160" height="160" />
+        <img src="@/assets/logo.png" alt="面试助手" width="160" height="160" />
         <span class="logo-text">面试小助手</span>
       </div>
       <el-button class="new-chat-button" @click="newChat">
