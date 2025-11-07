@@ -1,11 +1,7 @@
 package com.it.zkx;
 
-import com.it.zkx.assistant.Assistant;
-import com.it.zkx.assistant.MemoryChatAssistant;
-import com.it.zkx.assistant.SeparateChatAssistant;
 import dev.langchain4j.community.model.dashscope.QwenChatModel;
 import dev.langchain4j.service.AiServices;
-import dev.langchain4j.service.spring.AiService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

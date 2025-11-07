@@ -1,6 +1,5 @@
 package com.it.zkx;
 
-import com.it.zkx.assistant.SeparateChatAssistant;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

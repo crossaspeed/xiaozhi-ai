@@ -11,7 +11,6 @@ import reactor.core.publisher.Flux;
         wiringMode = AiServiceWiringMode.EXPLICIT,
         streamingChatModel = "qwenStreamingChatModel",
         chatMemoryProvider = "chatMemoryProviderXiaozhi",
-        tools = "appointmentTools",
         contentRetriever = "contentRetrieverXiaozhiPincone"
 
 )
