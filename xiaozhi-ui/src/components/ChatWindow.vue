@@ -2,8 +2,8 @@
   <div class="app-layout">
     <div class="sidebar">
       <div class="logo-section">
-        <img src="@/assets/logo.png" alt="硅谷小智" width="160" height="160" />
-        <span class="logo-text">硅谷小智（医疗版）</span>
+        <img src="@/assets/logo.png" alt="面试小助手" width="160" height="160" />
+        <span class="logo-text">面试小助手</span>
       </div>
       <el-button class="new-chat-button" @click="newChat">
         <i class="fa-solid fa-plus"></i>
